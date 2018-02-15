@@ -1,0 +1,9 @@
+git add (a,b);
+   return a+b;
+
+  git subsract (a,b)
+  pass
+
+  git multiply(a,b)
+  pass
+
